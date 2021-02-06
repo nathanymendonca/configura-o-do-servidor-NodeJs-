@@ -60,6 +60,6 @@ app.get('/pedidos', (req, res) => {
 }) 
 
 
-app.listen(3002,function(){
-    console.log('funcionado no : http://localhost:3002!')
+app.listen(3006,function(){
+    console.log('funcionado no : http://localhost:3006!')
 });
